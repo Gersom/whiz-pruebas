@@ -2,7 +2,7 @@
 * Banner principal
 > Estilos, altura, márgenes, estructura de clases html, versión mobil
 
-![[image01.png]]
+![imagen01](./image01.png)
 
 * Sliders principales
 > reestructuramiento, reparación de referencias y solución para los botones de adelante y atrás, versión mobil
